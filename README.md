@@ -23,4 +23,3 @@ A perfect game in bowling is 12 strikes in a row and would be represented like t
 Represented in this challenge as '/'
 
 A spare is scored when a player knocks down all ten pins in two rolls. In the first 9 frames this will be scored as 10 points plus the next roll. So if a player were to have two frames 9/ 54, the total score of the two frames would be 24. The first frame would be worth 15 (10 + 5) and the second frame would be worth 9 (5 + 4)
-
